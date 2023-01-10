@@ -1,0 +1,6 @@
+C:\Users\Styliani\source\repos\LibraryForPhone\LibraryForPhone\bin\Debug\LibraryForPhone.dll
+C:\Users\Styliani\source\repos\LibraryForPhone\LibraryForPhone\bin\Debug\LibraryForPhone.pdb
+C:\Users\Styliani\source\repos\LibraryForPhone\LibraryForPhone\obj\Debug\LibraryForPhone.csproj.AssemblyReference.cache
+C:\Users\Styliani\source\repos\LibraryForPhone\LibraryForPhone\obj\Debug\LibraryForPhone.csproj.CoreCompileInputs.cache
+C:\Users\Styliani\source\repos\LibraryForPhone\LibraryForPhone\obj\Debug\LibraryForPhone.dll
+C:\Users\Styliani\source\repos\LibraryForPhone\LibraryForPhone\obj\Debug\LibraryForPhone.pdb
